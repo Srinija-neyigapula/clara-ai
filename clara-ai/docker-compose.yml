@@ -1,0 +1,33 @@
+version: "3.8"
+
+# ─────────────────────────────────────────────────────────────
+# Clara AI – n8n local automation orchestrator
+# Usage:
+#   docker compose up -d
+#   Open http://localhost:5678
+#   Import workflows/n8n_mock_workflow.json
+# ─────────────────────────────────────────────────────────────
+
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: clara_n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_ACTIVE=false
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - WEBHOOK_URL=http://localhost:5678/
+      - GENERIC_TIMEZONE=America/Chicago
+      # Mount the project directory so n8n can execute pipeline scripts
+      - NODE_FUNCTION_ALLOW_EXTERNAL=*
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - .:/data/clara-ai   # Mount project root into container
+    working_dir: /data/clara-ai
+
+volumes:
+  n8n_data:

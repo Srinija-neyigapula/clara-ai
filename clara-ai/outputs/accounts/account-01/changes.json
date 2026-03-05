@@ -1,0 +1,40 @@
+{
+  "account_id": "account-01",
+  "generated_at": "2026-03-05T03:46:26.871788",
+  "total_changes": 2,
+  "changes": [
+    {
+      "field": "business_hours",
+      "old": {
+        "days": "Monday to Friday",
+        "start": "8am",
+        "end": "6pm",
+        "timezone": "local time"
+      },
+      "new": {
+        "days": "Monday to Friday",
+        "start": "7am",
+        "end": "7pm",
+        "timezone": "local time"
+      }
+    },
+    {
+      "field": "non_emergency_routing_rules",
+      "old": {
+        "main_phone": "512-555-0188",
+        "destinations": [
+          "Main office line"
+        ],
+        "voicemail": "after-hours voicemail"
+      },
+      "new": {
+        "main_phone": "512-555-0192",
+        "destinations": [
+          "Main office line",
+          "Route commercial calls to our sales team at 512-555-0300"
+        ],
+        "voicemail": "after-hours voicemail"
+      }
+    }
+  ]
+}

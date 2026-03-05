@@ -1,0 +1,30 @@
+Onboarding Call – Account 02 (Sunrise Plumbing Co.)
+Date: 2026-01-18
+Participants: Clara (Onboarding), James Okafor (Owner)
+
+---
+
+Clara: Hi James, let's confirm final setup. Any changes since your demo?
+
+James: Yes a couple. We've hired a dispatcher, Angela Torres, who now handles all scheduling. Her direct line is 602-555-0155 and angela@sunriseplumbing.com.
+
+Clara: Great. Any changes to hours?
+
+James: We're now open Monday through Saturday, 7am to 6pm instead of 5pm. We added an extra hour due to demand.
+
+Clara: Any additions to the emergency list?
+
+James: Add "water heater failure" and "no hot water" as emergencies now. Those escalate the same way.
+
+Clara: Routing changes?
+
+James: Route all new customer calls to Angela at 602-555-0155 instead of the main line. Existing customers for billing and service history still go to 602-555-0140.
+
+Clara: Any constraint updates?
+
+James: Please also add: never book a job that requires commercial permits without confirming with management first.
+
+Clara: We'll get v2 pushed. Thanks James!
+
+---
+END OF TRANSCRIPT

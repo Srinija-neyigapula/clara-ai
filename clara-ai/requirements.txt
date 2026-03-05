@@ -1,0 +1,9 @@
+# Clara AI Pipeline – Requirements
+# Zero external dependencies required for core functionality.
+# Python 3.10+ standard library only.
+#
+# Optional (for future enhancements):
+# openai>=1.0.0          # LLM extraction layer (production)
+# anthropic>=0.18.0      # Alternative LLM
+# requests>=2.31.0       # Retell API integration
+# supabase>=1.0.0        # Cloud DB (production)

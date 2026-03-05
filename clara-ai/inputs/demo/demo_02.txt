@@ -1,0 +1,34 @@
+Demo Call Transcript – Account 02 (Sunrise Plumbing Co.)
+Date: 2026-01-11
+Participants: Clara (Sales), James Okafor (Owner)
+
+---
+
+Clara: Hi James, thanks for joining! Tell me about your business.
+
+James: We are Sunrise Plumbing Co., based in Phoenix, Arizona. We handle residential and commercial plumbing – drain cleaning, pipe repair, water heater installation, leak detection. Address is 4801 E Washington St, Phoenix, AZ 85034.
+
+Clara: What are your business hours?
+
+James: Monday through Saturday, 7am to 5pm. We're in the Mountain timezone so MST.
+
+Clara: How should emergency calls be handled?
+
+James: Any burst pipe, sewer backup, flooding, or gas leak should go to our emergency dispatch immediately. Number is 602-555-0167. No hold, no voicemail for those. My cell is 602-555-0150 as fallback.
+
+Clara: And routine calls?
+
+James: Routine calls – quotes, scheduling, billing – route to our main office at 602-555-0140. After hours, take a message and we call back same day if before 8pm, next morning otherwise.
+
+Clara: Do you use any field service software?
+
+James: We use ServiceTrade. Important: never create sprinkler jobs in ServiceTrade – we don't handle sprinkler systems. Always clarify that before booking.
+
+Clara: Contact for setup?
+
+James: James Okafor, james@sunriseplumbing.com, 602-555-0150.
+
+Clara: Perfect, we'll have your agent ready shortly!
+
+---
+END OF TRANSCRIPT

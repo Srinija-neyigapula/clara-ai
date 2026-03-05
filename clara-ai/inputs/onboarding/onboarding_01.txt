@@ -1,0 +1,26 @@
+Onboarding Call – Account 01 (Greenfield HVAC Services)
+Date: 2026-01-17
+Participants: Clara (Onboarding), Mike Johnson (Office Manager)
+
+---
+
+Clara: Hi Mike! We have your v1 agent live. I wanted to run through updates before we finalize.
+
+Mike: Great, a few things. We've decided to change hours to 7am to 7pm Monday to Friday. Saturdays are now 8am to 4pm.
+
+Clara: Got it. Any changes to routing or emergency types?
+
+Mike: Yes. We want to add "water damage" and "electrical failure" to the emergency list. Those should also go directly to the on-call tech at 512-555-0192.
+
+Clara: Understood. Anything else?
+
+Mike: We're adding a new commercial line. Route commercial calls to our sales team at 512-555-0300. Residential appointments still go to the front desk at 512-555-0188.
+
+Clara: Any changes to after-hours messaging?
+
+Mike: Yes, please change it so callers know we now offer a callback within 1 hour for any gas leak or electrical failure after hours.
+
+Clara: Got it. We'll push v2. Thanks Mike!
+
+---
+END OF TRANSCRIPT

@@ -1,0 +1,82 @@
+{
+  "account_id": "account-02",
+  "generated_at": "2026-03-05T03:46:26.883342",
+  "total_changes": 5,
+  "changes": [
+    {
+      "field": "business_hours",
+      "old": {
+        "days": "Monday to Saturday",
+        "start": "7am",
+        "end": "5pm",
+        "timezone": "America/Denver"
+      },
+      "new": {
+        "days": "Monday to Saturday",
+        "start": "7am",
+        "end": "6pm",
+        "timezone": "America/Denver"
+      }
+    },
+    {
+      "field": "emergency_definition",
+      "old": [
+        "emergency",
+        "flood",
+        "leak",
+        "gas leak",
+        "burst pipe",
+        "be handled?"
+      ],
+      "new": [
+        "emergency",
+        "flood",
+        "leak",
+        "gas leak",
+        "burst pipe",
+        "be handled?",
+        "failure"
+      ]
+    },
+    {
+      "field": "non_emergency_routing_rules",
+      "old": {
+        "main_phone": "602-555-0140",
+        "destinations": [
+          "route to our main office at 602-555-0140"
+        ],
+        "voicemail": "after-hours voicemail"
+      },
+      "new": {
+        "main_phone": "602-555-0155",
+        "destinations": [
+          "route to our main office at 602-555-0140",
+          "Route all new customer calls to Angela at 602-555-0155 instead of the main line"
+        ],
+        "voicemail": "after-hours voicemail"
+      }
+    },
+    {
+      "field": "integration_constraints",
+      "old": [
+        "never create sprinkler jobs in ServiceTrade \u2013 we don't handle sprinkler systems"
+      ],
+      "new": [
+        "never create sprinkler jobs in ServiceTrade \u2013 we don't handle sprinkler systems",
+        "also add: never book a job that requires commercial permits without confirming with management first",
+        "never book a job that requires commercial permits without confirming with management first"
+      ]
+    },
+    {
+      "field": "additional_contacts",
+      "old": [],
+      "new": [
+        {
+          "name": "Angela Torres",
+          "phone": "602-555-0155",
+          "email": "angela@sunriseplumbing.com"
+        }
+      ]
+    }
+  ]
+}

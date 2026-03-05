@@ -1,0 +1,26 @@
+Onboarding Call – Account 03 (Metro Electrical Solutions)
+Date: 2026-01-19
+Participants: Clara (Onboarding), Sandra Lee
+
+---
+
+Clara: Hi Sandra, ready to finalize Metro Electrical's setup?
+
+Sandra: Yes. First thing – we're updating hours to 7am to 7pm Monday through Friday and adding Saturday from 8am to 2pm.
+
+Clara: Great. Any emergency changes?
+
+Sandra: Add "no power in commercial building" and "transformer failure" to the emergency types. Same routing to 312-555-0177.
+
+Clara: Any routing changes?
+
+Sandra: We have a new commercial projects coordinator, David Park. Route all commercial inquiries to him at 312-555-0180 and d.park@metroelectrical.com. Residential still goes to main at 312-555-0100.
+
+Clara: Integration constraints?
+
+Sandra: Update: also never share technician schedules with callers – that's sensitive internal info.
+
+Clara: Noted. We'll finalize v2. Thanks Sandra!
+
+---
+END OF TRANSCRIPT

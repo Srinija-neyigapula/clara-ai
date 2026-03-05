@@ -1,0 +1,77 @@
+{
+  "account_id": "account-03",
+  "generated_at": "2026-03-05T03:46:26.894448",
+  "total_changes": 5,
+  "changes": [
+    {
+      "field": "business_hours",
+      "old": {
+        "days": "Monday to Friday",
+        "start": "7am",
+        "end": "6pm",
+        "timezone": "America/Chicago"
+      },
+      "new": {
+        "days": "Monday to Friday",
+        "start": "7am",
+        "end": "7pm",
+        "timezone": "America/Chicago"
+      }
+    },
+    {
+      "field": "emergency_definition",
+      "old": [
+        "emergency",
+        "fire",
+        "outage",
+        "failure",
+        "hazard",
+        "power out"
+      ],
+      "new": [
+        "emergency",
+        "fire",
+        "outage",
+        "failure",
+        "hazard",
+        "power out",
+        "no power"
+      ]
+    },
+    {
+      "field": "non_emergency_routing_rules",
+      "old": {
+        "main_phone": "312-555-0100",
+        "destinations": [
+          "Main office line"
+        ],
+        "voicemail": "after-hours voicemail"
+      },
+      "new": {
+        "main_phone": "312-555-0177",
+        "destinations": [
+          "Main office line",
+          "Route all commercial inquiries to him at 312-555-0180 and d"
+        ],
+        "voicemail": "after-hours voicemail"
+      }
+    },
+    {
+      "field": "integration_constraints",
+      "old": [],
+      "new": [
+        "never share technician schedules with callers \u2013 that's sensitive internal info"
+      ]
+    },
+    {
+      "field": "additional_contacts",
+      "old": [],
+      "new": [
+        {
+          "name": "David Park",
+          "email": "d.park@metroelectrical.com"
+        }
+      ]
+    }
+  ]
+}

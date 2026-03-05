@@ -1,0 +1,668 @@
+[
+  {
+    "id": 74,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:46:26.920986"
+  },
+  {
+    "id": 73,
+    "account_id": "account-04",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_04.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:46:26.909934"
+  },
+  {
+    "id": 72,
+    "account_id": "account-03",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_03.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:46:26.896086"
+  },
+  {
+    "id": 71,
+    "account_id": "account-02",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_02.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:46:26.884993"
+  },
+  {
+    "id": 70,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 2}",
+    "created_at": "2026-03-05T03:46:26.873348"
+  },
+  {
+    "id": 69,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:46:26.861373"
+  },
+  {
+    "id": 68,
+    "account_id": "account-04",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_04.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:46:26.849731"
+  },
+  {
+    "id": 67,
+    "account_id": "account-03",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_03.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:46:26.838604"
+  },
+  {
+    "id": 66,
+    "account_id": "account-02",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_02.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:46:26.828371"
+  },
+  {
+    "id": 65,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:46:26.810819"
+  },
+  {
+    "id": 64,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:43:56.104977"
+  },
+  {
+    "id": 63,
+    "account_id": "account-04",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_04.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:43:56.094147"
+  },
+  {
+    "id": 62,
+    "account_id": "account-03",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_03.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:43:56.081507"
+  },
+  {
+    "id": 61,
+    "account_id": "account-02",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_02.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:43:56.064603"
+  },
+  {
+    "id": 60,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 2}",
+    "created_at": "2026-03-05T03:43:56.052349"
+  },
+  {
+    "id": 59,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:43:56.039822"
+  },
+  {
+    "id": 58,
+    "account_id": "account-04",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_04.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:43:56.030022"
+  },
+  {
+    "id": 57,
+    "account_id": "account-03",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_03.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:43:56.019822"
+  },
+  {
+    "id": 56,
+    "account_id": "account-02",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_02.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:43:56.009104"
+  },
+  {
+    "id": 55,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:43:55.974297"
+  },
+  {
+    "id": 54,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:42:03.220639"
+  },
+  {
+    "id": 53,
+    "account_id": "account-04",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_04.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:42:03.209373"
+  },
+  {
+    "id": 52,
+    "account_id": "account-03",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_03.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:42:03.190327"
+  },
+  {
+    "id": 51,
+    "account_id": "account-02",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_02.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:42:03.179393"
+  },
+  {
+    "id": 50,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 2}",
+    "created_at": "2026-03-05T03:42:03.168802"
+  },
+  {
+    "id": 49,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:42:03.156501"
+  },
+  {
+    "id": 48,
+    "account_id": "account-04",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_04.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:42:03.146530"
+  },
+  {
+    "id": 47,
+    "account_id": "account-03",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_03.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:42:03.136402"
+  },
+  {
+    "id": 46,
+    "account_id": "account-02",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_02.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:42:03.126696"
+  },
+  {
+    "id": 45,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:42:03.114158"
+  },
+  {
+    "id": 44,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:39:24.392595"
+  },
+  {
+    "id": 43,
+    "account_id": "account-04",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_04.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:39:24.380697"
+  },
+  {
+    "id": 42,
+    "account_id": "account-03",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_03.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:39:24.367749"
+  },
+  {
+    "id": 41,
+    "account_id": "account-02",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_02.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:39:24.354443"
+  },
+  {
+    "id": 40,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 2}",
+    "created_at": "2026-03-05T03:39:24.343082"
+  },
+  {
+    "id": 39,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:24.332501"
+  },
+  {
+    "id": 38,
+    "account_id": "account-04",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_04.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:24.323152"
+  },
+  {
+    "id": 37,
+    "account_id": "account-03",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_03.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:24.311365"
+  },
+  {
+    "id": 36,
+    "account_id": "account-02",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_02.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:24.279336"
+  },
+  {
+    "id": 35,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:24.266267"
+  },
+  {
+    "id": 34,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:39:06.694281"
+  },
+  {
+    "id": 33,
+    "account_id": "account-04",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_04.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:39:06.682903"
+  },
+  {
+    "id": 32,
+    "account_id": "account-03",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_03.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:39:06.645256"
+  },
+  {
+    "id": 31,
+    "account_id": "account-02",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_02.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:39:06.634502"
+  },
+  {
+    "id": 30,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 2}",
+    "created_at": "2026-03-05T03:39:06.624045"
+  },
+  {
+    "id": 29,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:06.612243"
+  },
+  {
+    "id": 28,
+    "account_id": "account-04",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_04.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:06.589002"
+  },
+  {
+    "id": 27,
+    "account_id": "account-03",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_03.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:06.578862"
+  },
+  {
+    "id": 26,
+    "account_id": "account-02",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_02.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:06.568548"
+  },
+  {
+    "id": 25,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": null}",
+    "created_at": "2026-03-05T03:39:06.557346"
+  },
+  {
+    "id": 24,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:33:28.357734"
+  },
+  {
+    "id": 23,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 1}",
+    "created_at": "2026-03-05T03:33:28.347519"
+  },
+  {
+    "id": 22,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": \"Ben's Electric\"}",
+    "created_at": "2026-03-05T03:33:28.336237"
+  },
+  {
+    "id": 21,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": \"Greenfield HVAC Services\"}",
+    "created_at": "2026-03-05T03:33:28.323316"
+  },
+  {
+    "id": 20,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:33:12.784868"
+  },
+  {
+    "id": 19,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 1}",
+    "created_at": "2026-03-05T03:33:12.773324"
+  },
+  {
+    "id": 18,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": \"Ben's Electric\"}",
+    "created_at": "2026-03-05T03:33:12.762476"
+  },
+  {
+    "id": 17,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": \"Unknown Business\"}",
+    "created_at": "2026-03-05T03:33:12.751439"
+  },
+  {
+    "id": 16,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:32:57.777257"
+  },
+  {
+    "id": 15,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 1}",
+    "created_at": "2026-03-05T03:32:57.765789"
+  },
+  {
+    "id": 14,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": \"Ben's Electric\"}",
+    "created_at": "2026-03-05T03:32:57.753951"
+  },
+  {
+    "id": 13,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": \"Unknown Business\"}",
+    "created_at": "2026-03-05T03:32:57.743245"
+  },
+  {
+    "id": 12,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:32:49.471167"
+  },
+  {
+    "id": 11,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 1}",
+    "created_at": "2026-03-05T03:32:49.461175"
+  },
+  {
+    "id": 10,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": \"Ben's Electric\"}",
+    "created_at": "2026-03-05T03:32:49.448493"
+  },
+  {
+    "id": 9,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": \"Unknown Business\"}",
+    "created_at": "2026-03-05T03:32:49.438166"
+  },
+  {
+    "id": 8,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 5}",
+    "created_at": "2026-03-05T03:32:35.956625"
+  },
+  {
+    "id": 7,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 1}",
+    "created_at": "2026-03-05T03:32:35.946259"
+  },
+  {
+    "id": 6,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": \"Ben's Electric\"}",
+    "created_at": "2026-03-05T03:32:35.935855"
+  },
+  {
+    "id": 5,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": \"Unknown Business\"}",
+    "created_at": "2026-03-05T03:32:35.924067"
+  },
+  {
+    "id": 4,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_bens_electric.txt\", \"changes_count\": 4}",
+    "created_at": "2026-03-05T03:32:06.697083"
+  },
+  {
+    "id": 3,
+    "account_id": "account-01",
+    "task_type": "pipeline_b",
+    "version": "v2",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/onboarding/onboarding_01.txt\", \"changes_count\": 2}",
+    "created_at": "2026-03-05T03:32:06.686227"
+  },
+  {
+    "id": 2,
+    "account_id": "account-bens_electric",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_bens_electric.txt\", \"business_name\": \"Ben's Electric\"}",
+    "created_at": "2026-03-05T03:32:06.675370"
+  },
+  {
+    "id": 1,
+    "account_id": "account-01",
+    "task_type": "pipeline_a",
+    "version": "v1",
+    "status": "completed",
+    "details": "{\"transcript\": \"/home/claude/clara-ai/inputs/demo/demo_01.txt\", \"business_name\": \"Unknown Business\"}",
+    "created_at": "2026-03-05T03:32:06.665356"
+  }
+]

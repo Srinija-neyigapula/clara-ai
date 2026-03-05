@@ -1,0 +1,26 @@
+Onboarding Call – Account 04 (PureAir HVAC & Refrigeration)
+Date: 2026-01-20
+Participants: Clara (Onboarding), Tony Reyes (Owner)
+
+---
+
+Clara: Hi Tony, let's finalize PureAir's agent.
+
+Tony: Sure. First: we've changed business hours to 7am to 6pm Monday to Friday. We also now do Saturday 8am to 12pm for service calls only.
+
+Clara: Any emergency additions?
+
+Tony: Add "compressor failure" and "flooding in mechanical room" to the emergency list. Route them same as before – 305-555-0190.
+
+Clara: Routing changes?
+
+Tony: We hired a new sales rep, Maria Gonzalez, for new client inquiries. Route those to 305-555-0130 and maria@pureairhvac.com. Existing client calls still go to 305-555-0120.
+
+Clara: Constraint updates?
+
+Tony: Update the constraint – agent should say "we'll have a technician assess availability and call you back within 2 hours" instead of no same-day commitment.
+
+Clara: Perfect. v2 will be live shortly!
+
+---
+END OF TRANSCRIPT

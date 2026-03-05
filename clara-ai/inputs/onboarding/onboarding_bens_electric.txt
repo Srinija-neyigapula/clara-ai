@@ -1,0 +1,26 @@
+Onboarding Call – Account bens_electric (Ben's Electric)
+Date: 2026-01-21
+Participants: Clara (Onboarding), Ben Carter (Owner)
+
+---
+
+Clara: Hi Ben! Checking in to finalize your agent setup. Any updates since our demo?
+
+Ben: A couple. We hired a new office manager, Sarah Mills. Her direct line is 720-555-0110 and sarah@benselectric.com.
+
+Clara: Any changes to hours or routing?
+
+Ben: We're now open Monday through Saturday, 7am to 6pm. Route all new customer inquiries to Sarah at 720-555-0110. Existing customer service and complaints still go to main at 720-555-0100.
+
+Clara: Emergency additions?
+
+Ben: Add "gas leak" to the emergency list – we've had a few recently and they escalate the same as outages. Also add "carbon monoxide alarm."
+
+Clara: Any constraint changes?
+
+Ben: Add: the agent should mention we offer free estimates for new customers when routing new customer calls.
+
+Clara: Great. We'll push v2. Thanks Ben!
+
+---
+END OF TRANSCRIPT

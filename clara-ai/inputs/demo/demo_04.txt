@@ -1,0 +1,34 @@
+Demo Call Transcript – Account 04 (PureAir HVAC & Refrigeration)
+Date: 2026-01-13
+Participants: Clara (Sales), Tony Reyes (Owner)
+
+---
+
+Clara: Hi Tony, thanks for taking the time. Tell me about your business.
+
+Tony: We're PureAir HVAC & Refrigeration out of Miami, Florida. We service commercial refrigeration units, HVAC systems for restaurants and hotels, and walk-in cooler repairs. Located at 3320 NW 27th Ave, Miami, FL 33142.
+
+Clara: What are your business hours?
+
+Tony: We operate Monday to Friday, 8am to 5pm Eastern. Emergency service runs 24/7 though.
+
+Clara: What kinds of emergency calls do you get?
+
+Tony: Walk-in cooler failure – that's a big one, especially for restaurants. Also AC failure in a hotel, ammonia leak, refrigerant leak. Those need immediate response. Call our emergency tech at 305-555-0190.
+
+Clara: How should non-emergency calls be handled?
+
+Tony: Route service inquiries and quotes to our office at 305-555-0120. New customer calls can go to our sales line at 305-555-0125. After hours, take name, number, and issue. We call back by 8am next business day.
+
+Clara: Any constraints?
+
+Tony: Do not promise same-day service unless the technician confirms availability first. The agent should never make that commitment.
+
+Clara: Contact for setup?
+
+Tony: Tony Reyes, tony@pureairhvac.com, 305-555-0120.
+
+Clara: Perfect, your v1 agent will be generated!
+
+---
+END OF TRANSCRIPT

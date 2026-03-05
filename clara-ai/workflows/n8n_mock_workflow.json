@@ -1,0 +1,67 @@
+{
+  "name": "Clara AI Pipeline – Mock n8n Workflow",
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Trigger: New Demo File",
+      "type": "n8n-nodes-base.filesystemTrigger",
+      "position": [100, 200],
+      "parameters": {
+        "path": "inputs/demo/",
+        "events": ["create"]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Run Pipeline A",
+      "type": "n8n-nodes-base.executeCommand",
+      "position": [350, 200],
+      "parameters": {
+        "command": "python scripts/pipeline_a.py {{ $json.path }}"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Trigger: New Onboarding File",
+      "type": "n8n-nodes-base.filesystemTrigger",
+      "position": [100, 400],
+      "parameters": {
+        "path": "inputs/onboarding/",
+        "events": ["create"]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Run Pipeline B",
+      "type": "n8n-nodes-base.executeCommand",
+      "position": [350, 400],
+      "parameters": {
+        "command": "python scripts/pipeline_b.py {{ $json.accountId }} {{ $json.path }}"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Read v2 Spec",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "position": [600, 400],
+      "parameters": {
+        "filePath": "outputs/accounts/{{ $json.accountId }}/v2/retell_agent_spec.json"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Log to Task DB",
+      "type": "n8n-nodes-base.executeCommand",
+      "position": [800, 400],
+      "parameters": {
+        "command": "python -c \"import sys; sys.path.insert(0,'scripts'); from task_tracker import log_task; log_task('{{ $json.accountId }}','n8n_trigger','v2')\""
+      }
+    }
+  ],
+  "connections": {
+    "Trigger: New Demo File": { "main": [[{ "node": "Run Pipeline A", "type": "main", "index": 0 }]] },
+    "Trigger: New Onboarding File": { "main": [[{ "node": "Run Pipeline B", "type": "main", "index": 0 }]] },
+    "Run Pipeline B": { "main": [[{ "node": "Read v2 Spec", "type": "main", "index": 0 }]] },
+    "Read v2 Spec": { "main": [[{ "node": "Log to Task DB", "type": "main", "index": 0 }]] }
+  }
+}

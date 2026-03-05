@@ -1,0 +1,74 @@
+{
+  "account_id": "account-bens_electric",
+  "generated_at": "2026-03-05T03:46:26.919318",
+  "total_changes": 4,
+  "changes": [
+    {
+      "field": "business_hours",
+      "old": {
+        "days": "Monday to Friday",
+        "start": "7am",
+        "end": "5pm",
+        "timezone": "local time"
+      },
+      "new": {
+        "days": "Monday to Saturday",
+        "start": "7am",
+        "end": "6pm",
+        "timezone": "local time"
+      }
+    },
+    {
+      "field": "emergency_definition",
+      "old": [
+        "emergency",
+        "fire",
+        "outage",
+        "failure",
+        "hazard",
+        "power out",
+        "be handled?"
+      ],
+      "new": [
+        "emergency",
+        "fire",
+        "outage",
+        "failure",
+        "hazard",
+        "power out",
+        "be handled?",
+        "gas leak",
+        "leak"
+      ]
+    },
+    {
+      "field": "non_emergency_routing_rules",
+      "old": {
+        "main_phone": "720-555-0100",
+        "destinations": [
+          "Main office line"
+        ],
+        "voicemail": "after-hours voicemail"
+      },
+      "new": {
+        "main_phone": "720-555-0110",
+        "destinations": [
+          "Main office line",
+          "Route all new customer inquiries to Sarah at 720-555-0110"
+        ],
+        "voicemail": "after-hours voicemail"
+      }
+    },
+    {
+      "field": "additional_contacts",
+      "old": [],
+      "new": [
+        {
+          "name": "Sarah Mills",
+          "phone": "720-555-0110",
+          "email": "sarah@benselectric.com"
+        }
+      ]
+    }
+  ]
+}

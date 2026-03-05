@@ -1,0 +1,34 @@
+Demo Call Transcript – Account 03 (Metro Electrical Solutions)
+Date: 2026-01-12
+Participants: Clara (Sales), Sandra Lee (Operations Manager)
+
+---
+
+Clara: Hi Sandra, let's get started. Tell me about Metro Electrical.
+
+Sandra: We are Metro Electrical Solutions, licensed electrical contractors in Chicago, Illinois. We do residential rewiring, panel upgrades, commercial fit-outs, and emergency electrical repair. Office is at 1120 W Lake St, Chicago, IL 60607.
+
+Clara: Business hours?
+
+Sandra: Monday through Friday, 7am to 6pm Central time. We have a 24/7 emergency line too.
+
+Clara: What counts as an emergency?
+
+Sandra: Power outage, electrical failure, fire hazard, sparks or burning smell – those are emergencies. Route directly to our on-call electrician at 312-555-0177. Don't put them on hold.
+
+Clara: And non-emergency?
+
+Sandra: General inquiries and scheduling go to our office line at 312-555-0100. After hours take a message and promise callback next business day by 9am.
+
+Clara: Any integrations or constraints?
+
+Sandra: We use an internal ticketing system. Never tell callers a specific technician name – just say "one of our certified electricians."
+
+Clara: Got it. Primary contact?
+
+Sandra: Sandra Lee, s.lee@metroelectrical.com, 312-555-0101.
+
+Clara: Great, we'll get your v1 spec created!
+
+---
+END OF TRANSCRIPT

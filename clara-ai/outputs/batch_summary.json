@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-03-05T03:46:26.769427",
+  "pipeline_a": [
+    {
+      "account_id": "account-01",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-02",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-03",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-04",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-bens_electric",
+      "status": "ok"
+    }
+  ],
+  "pipeline_b": [
+    {
+      "account_id": "account-01",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-02",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-03",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-04",
+      "status": "ok"
+    },
+    {
+      "account_id": "account-bens_electric",
+      "status": "ok"
+    }
+  ],
+  "errors": [],
+  "total_accounts": 5,
+  "total_errors": 0,
+  "pipeline_a_success": 5,
+  "pipeline_b_success": 5,
+  "pipeline_a_failed": 0,
+  "pipeline_b_failed": 0,
+  "account_stats": [
+    {
+      "account_id": "account-01",
+      "v1_to_v2_changes": 2,
+      "status": "ok"
+    },
+    {
+      "account_id": "account-02",
+      "v1_to_v2_changes": 5,
+      "status": "ok"
+    },
+    {
+      "account_id": "account-03",
+      "v1_to_v2_changes": 5,
+      "status": "ok"
+    },
+    {
+      "account_id": "account-04",
+      "v1_to_v2_changes": 4,
+      "status": "ok"
+    },
+    {
+      "account_id": "account-bens_electric",
+      "v1_to_v2_changes": 4,
+      "status": "ok"
+    }
+  ]
+}

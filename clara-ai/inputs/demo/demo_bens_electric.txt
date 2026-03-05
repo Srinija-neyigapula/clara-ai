@@ -1,0 +1,30 @@
+Demo Call Transcript – Account bens_electric (Ben's Electric)
+Date: 2026-01-14
+Participants: Clara (Sales), Ben Carter (Owner)
+
+---
+
+Clara: Hi Ben, thanks for joining! Tell me about your business.
+
+Ben: We are Ben's Electric, a licensed electrical contracting company in Denver, Colorado. We do residential rewiring, panel upgrades, and commercial fit-outs. Address is 890 Federal Blvd, Denver, CO 80204.
+
+Clara: What are your business hours?
+
+Ben: Monday through Friday, 7am to 5pm. We run emergency service around the clock for electrical failures and outages.
+
+Clara: How should emergency calls be handled?
+
+Ben: Any power outage, electrical failure, or fire hazard goes straight to our emergency dispatch at 720-555-0145. No hold, no voicemail – immediate connection.
+
+Clara: And general calls?
+
+Ben: General inquiries, quotes, and scheduling go to main line at 720-555-0100. After hours, take a message and we call back within 2 business hours next morning.
+
+Clara: Who's the main contact?
+
+Ben: Ben Carter, ben@benselectric.com, 720-555-0145.
+
+Clara: Perfect, Ben. We'll have your v1 agent ready shortly!
+
+---
+END OF TRANSCRIPT

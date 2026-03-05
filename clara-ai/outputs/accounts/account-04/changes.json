@@ -1,0 +1,66 @@
+{
+  "account_id": "account-04",
+  "generated_at": "2026-03-05T03:46:26.908144",
+  "total_changes": 4,
+  "changes": [
+    {
+      "field": "business_hours",
+      "old": {
+        "days": "Monday to Friday",
+        "start": "8am",
+        "end": "5pm",
+        "timezone": "America/New_York"
+      },
+      "new": {
+        "days": "Monday to Friday",
+        "start": "7am",
+        "end": "6pm",
+        "timezone": "America/New_York"
+      }
+    },
+    {
+      "field": "emergency_definition",
+      "old": [
+        "emergency",
+        "leak",
+        "failure",
+        "do you get?"
+      ],
+      "new": [
+        "emergency",
+        "leak",
+        "failure",
+        "do you get?",
+        "flood"
+      ]
+    },
+    {
+      "field": "non_emergency_routing_rules",
+      "old": {
+        "main_phone": "305-555-0120",
+        "destinations": [
+          "Main office line"
+        ],
+        "voicemail": "after-hours voicemail"
+      },
+      "new": {
+        "main_phone": "305-555-0190",
+        "destinations": [
+          "Main office line",
+          "Route those to 305-555-0130 and maria@pureairhvac"
+        ],
+        "voicemail": "after-hours voicemail"
+      }
+    },
+    {
+      "field": "additional_contacts",
+      "old": [],
+      "new": [
+        {
+          "name": "Maria Gonzalez",
+          "email": "maria@pureairhvac.com"
+        }
+      ]
+    }
+  ]
+}

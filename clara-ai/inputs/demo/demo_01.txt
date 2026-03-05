@@ -1,0 +1,34 @@
+Demo Call Transcript – Account 01 (Greenfield HVAC Services)
+Date: 2026-01-10
+Participants: Sales Rep (Clara), Prospect (Mike Johnson, Office Manager)
+
+---
+
+Clara: Hi, thanks for taking the time to chat today! I'm Clara, calling on behalf of our AI receptionist service. Can you tell me a little about your business?
+
+Mike: Sure! This is Greenfield HVAC Services. We handle heating, ventilation, and air conditioning installs and repairs for residential and commercial clients here in Austin, Texas. We're located at 2210 Rutland Drive, Austin, TX 78758.
+
+Clara: Great! And what are your typical business hours?
+
+Mike: We're open Monday to Friday, 8am to 6pm. On Saturdays we do 9am to 2pm for emergency calls only.
+
+Clara: Got it. And what types of calls do you typically receive?
+
+Mike: Scheduling appointments, billing questions, and a lot of emergency breakdowns – like no heat in winter, AC failure in summer. We get gas leak calls too, which we treat as highest priority.
+
+Clara: How do you want those emergency calls handled?
+
+Mike: Emergency calls – gas leak, no heat, no power, flooding, burst pipe – those should be routed directly to our on-call technician. The number is 512-555-0192. Everything else goes to our front desk at 512-555-0188 or voicemail after hours.
+
+Clara: Perfect. And who's the primary contact for setting up the agent?
+
+Mike: That would be me, Mike Johnson. You can reach me at 512-555-0188 or mike.johnson@greenfieldhvac.com.
+
+Clara: One last question – anything specific you want the agent to avoid?
+
+Mike: Don't mention we're a small team. And always reassure callers we have 24-hour emergency support for gas leaks and burst pipes.
+
+Clara: Wonderful. We'll get your v1 agent set up. Thank you, Mike!
+
+---
+END OF TRANSCRIPT
